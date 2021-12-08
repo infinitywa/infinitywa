@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0,CT Sport
+http://ottst05.flexitv.sk/dna-554-tv-pc/hls/1202v105.m3u8
+#EXTINF:-1, O2 Sport"tvg-logo="http://185.91.116.173:4000/icons/779.png",O2 Sport
+http://84.42.140.148:8880/hdmi
+#EXTINF:-1,NOVA Sport 3"tvg-logo="http://m3u.nice-iptv.com:4000/icons/2109.png",NOVA Sport 3
+http://84.42.140.147:8890/hdmi
+#EXTINF:-1,Joj Sport"tvg-logo="http://185.91.116.173:4000/icons/189.png",Joj Sport
+https://nn.geo.joj.sk/hls/rik-540.m3u8
